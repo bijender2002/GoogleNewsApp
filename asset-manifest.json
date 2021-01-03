@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/GoogleNewsApp/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/GoogleNewsApp/static/js/main.3242c4a1.chunk.js",
+    "main.js.map": "/GoogleNewsApp/static/js/main.3242c4a1.chunk.js.map",
+    "runtime-main.js": "/GoogleNewsApp/static/js/runtime-main.e7a56136.js",
+    "runtime-main.js.map": "/GoogleNewsApp/static/js/runtime-main.e7a56136.js.map",
+    "static/js/2.f30899f0.chunk.js": "/GoogleNewsApp/static/js/2.f30899f0.chunk.js",
+    "static/js/2.f30899f0.chunk.js.map": "/GoogleNewsApp/static/js/2.f30899f0.chunk.js.map",
+    "static/js/3.72074b38.chunk.js": "/GoogleNewsApp/static/js/3.72074b38.chunk.js",
+    "static/js/3.72074b38.chunk.js.map": "/GoogleNewsApp/static/js/3.72074b38.chunk.js.map",
+    "index.html": "/GoogleNewsApp/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/GoogleNewsApp/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f30899f0.chunk.js.LICENSE.txt": "/GoogleNewsApp/static/js/2.f30899f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7a56136.js",
+    "static/js/2.f30899f0.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.3242c4a1.chunk.js"
+  ]
+}
