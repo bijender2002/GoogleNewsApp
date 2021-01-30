@@ -69,7 +69,7 @@ function News(props) {
     const [activeMobile, setactiveMobile] = useState(false)
 
     React.useEffect(() => {
-        axios.get('http://newsapi.org/v2/everything?q=World&from=2020-12-03&sortBy=publishedAt&apiKey=6629cf883a304c098eff1ab12b4ae6a3')
+        axios.get('https://newsapi.org/v2/everything?q=World&from=2020-12-03&sortBy=publishedAt&apiKey=6629cf883a304c098eff1ab12b4ae6a3')
             .then(res => {
                 const Newsdata = res.data
                 setNews(Newsdata)
