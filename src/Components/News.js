@@ -73,6 +73,7 @@ function News(props) {
             .then(res => {
                 const Newsdata = res.data
                 setNews(Newsdata)
+                console.log(Newsdata)
 
             })
             .catch(err => {
